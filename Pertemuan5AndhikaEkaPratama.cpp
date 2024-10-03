@@ -69,7 +69,7 @@ int main() {
     int gajiTransport = transport(jamKerja);
 
 
-    cout << "\*************Rincian Gaji Karyawan*************\n";
+    cout << "*************Rincian Gaji Karyawan*************\n";
     cout << "NIP: " << nip << endl;
     cout << "Nama: " << nama << endl;
     cout << "Gaji Pokok: Rp. " << gajiPokok << endl;
